@@ -1,0 +1,4 @@
+gerbers*
+*-backups
+*.bak
+fp-info-cache
